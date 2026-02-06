@@ -9,6 +9,6 @@
 ## 実行方法
 ```bash
 chmod +x shellpractice1-1.sh
-chmod ;x shellpractice1-2.sh
+chmod +x shellpractice1-2.sh
 ./shellpractice1-1.sh
 ./shellpractice1-2.sh
